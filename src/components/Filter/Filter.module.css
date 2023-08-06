@@ -1,0 +1,13 @@
+.input {
+  outline: none;
+  border: none;
+  border: 2px solid black;
+  background: none;
+  padding: 5px 10px;
+  margin-bottom: 15px;
+  width: 180px;
+}
+.title {
+  color: #ffffff;
+  font-weight: 700;
+}
